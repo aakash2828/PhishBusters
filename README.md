@@ -23,6 +23,7 @@ Evaluate the model's performance using confusion matrices.
 Integrate InboxDefenders into your email security system for enhanced protection against phishing attacks.
 
 Contributors
+
 Aakash Banavathu (abanavat@gmu.edu)
 Waleed Saeed Mushrif Alamri (walamri@gmu.edu)
 Sundeep Damirekula (sdamirek@gmu.edu)
