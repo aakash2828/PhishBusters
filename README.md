@@ -1,4 +1,4 @@
-## CYSE690-Team3 - InboxDefenders: Email Phishing Detection with Deep Learning
+# CYSE690-Team3 - InboxDefenders: Email Phishing Detection with Deep Learning
 
 #Overview
 Welcome to InboxDefenders, an advanced email security project designed to protect users from phishing attacks using cutting-edge deep learning techniques. Our goal is to develop a robust system capable of accurately detecting phishing emails by analyzing their content.
