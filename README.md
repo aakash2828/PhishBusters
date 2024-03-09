@@ -44,11 +44,11 @@ We evaluate the effectiveness of InboxDefenders using confusion matrices, which 
 
 Meet the brilliant minds behind InboxDefenders:
 
-Aakash Banavathu (abanavat@gmu.edu)
-Waleed Saeed Mushrif Alamri (walamri@gmu.edu)
-Sundeep Damirekula (sdamirek@gmu.edu)
-Mohammad H Asim (masim@gmu.edu)
-Tung Thanh Truong (ttruon3@gmu.edu)
+- Aakash Banavathu (abanavat@gmu.edu)
+- Waleed Saeed Mushrif Alamri (walamri@gmu.edu)
+- Sundeep Damirekula (sdamirek@gmu.edu)
+- Mohammad H Asim (masim@gmu.edu)
+- Tung Thanh Truong (ttruon3@gmu.edu)
 
 ## Support
 For any inquiries or assistance, don't hesitate to reach out to our dedicated team at inboxdefenders@gmu.edu.
